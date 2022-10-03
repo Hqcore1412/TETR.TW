@@ -1,0 +1,2 @@
+            this.Controls.Add(this.pictureBox2);
+            this.Controls.Add(this.pictureBox1);
